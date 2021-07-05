@@ -15,7 +15,7 @@ This webscraper should collect a small bit of data from the first 10 or so rows 
 
 - Go into constants.py and change the value of PATH_TO_SCRAPER to the absolute path of the scraper directory.
 - Run `source bin/activate` to run the python3 venv
-- Run `python3 scraper.py`
+- In the root project folder, run `python3 scraper.py`
 
 * I believe this is all you have to do to get this to run; I don't have much (any) experience publishing python programs so I might be missing something. 
 
